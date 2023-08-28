@@ -4,7 +4,7 @@
 ## Projeto criado do Jira (adicionar professor como membro)
 ## Projeto criado no Github (projeto público)
 ### Com página de README contendo as informações da equipe e do produto
-# A crash course on writing a better README
+## A crash course on writing a better README
 ### Make a README
 ### Hall of Fame
 ### A Good Reame Template
