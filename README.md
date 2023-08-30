@@ -76,7 +76,6 @@ de alimentos e implementar práticas agrícolas resilientes.-->
       href="https://cesar-software.atlassian.net/jira/software/projects/KAN/boards/1"
       >Jira Software</a
     >
-    
   </li>
 
   <li>
@@ -85,18 +84,26 @@ de alimentos e implementar práticas agrícolas resilientes.-->
       >Microsoft Azure</a
     >
   </li>
+  <li>
+    <a
+      href="https://www.figma.com/files/team/1278837016854704503/naturezaNaMesa?fuid=1213264520627922075"
+      >Figma</a
+    >
+  </li>
 </ul>
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!--
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Visual Studio
 Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+-->
 
-<h2>Contribuíntes </h2>
+<h2>Contribuíntes</h2>
 <a href="https://github.com/brunoribeirol/fds/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=brunoribeirol/fds" />
 </a>
