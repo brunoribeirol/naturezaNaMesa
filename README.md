@@ -100,9 +100,3 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
 <a href="https://github.com/brunoribeirol/fds/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=brunoribeirol/fds" />
 </a>
-
-### Sugiro alinhar com algum ODS Nosso projeto está alinhado com os objetivos de
-garantir a fome zero e a agricultura sustentável, em consonância com Os
-Objetivos de Desenvolvimento Sustentável no Brasil. ## Projeto criado do Jira
-(adicionar professor como membro) ## Projeto criado no Github (projeto público)
-### Com página de README contendo as informações da equipe e do produto
