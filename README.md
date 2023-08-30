@@ -49,26 +49,6 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 </ul>
 <p></p>
 
-<h1>Equipe</h1>
-<ul>
-  <li>
-    <a href="https://github.com/brunoribeirol">Bruno Ribeiro</a> -
-    brlla@cesar.school 📩
-  </li>
-  <li>
-    <a href="https://github.com/joaopdornelas26">João Pedro Dornelas</a> -
-    jprda@cesar.school 📩
-  </li>
-  <li>
-    <a href="https://github.com/vinipetribu">Vinícius Petribu</a> -
-    vclp@cesar.school 📩
-  </li>
-  <li>
-    <a href="https://github.com/VIESAFE">Vinícius Ferraz</a> - vesf@cesar.school
-    📩
-  </li>
-</ul>
-
 <h2>Links Importantes</h2>
 <ul>
   <li>
@@ -102,6 +82,26 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 -->
+
+<h1>Equipe</h1>
+<ul>
+  <li>
+    <a href="https://github.com/brunoribeirol">Bruno Ribeiro</a> -
+    brlla@cesar.school 📩
+  </li>
+  <li>
+    <a href="https://github.com/joaopdornelas26">João Pedro Dornelas</a> -
+    jprda@cesar.school 📩
+  </li>
+  <li>
+    <a href="https://github.com/vinipetribu">Vinícius Petribu</a> -
+    vclp@cesar.school 📩
+  </li>
+  <li>
+    <a href="https://github.com/VIESAFE">Vinícius Ferraz</a> - vesf@cesar.school
+    📩
+  </li>
+</ul>
 
 <h2>Contribuíntes</h2>
 <a href="https://github.com/brunoribeirol/fds/graphs/contributors">
