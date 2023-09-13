@@ -53,7 +53,7 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 <ul>
   <li>
     <a
-      href="https://cesar-software.atlassian.net/jira/software/projects/KAN/boards/1"
+      href="https://brlla.atlassian.net/jira/software/projects/NAT/boards/2"
       >Jira Software</a
     >
   </li>
