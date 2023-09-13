@@ -66,7 +66,7 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   </li>
   <li>
     <a
-      href="https://www.figma.com/files/team/1278837016854704503/naturezaNaMesa?fuid=1213264520627922075"
+      href="https://www.figma.com/file/gLjdFQCF3fTfQyUurKPn8I/Untitled?type=design&node-id=1-8&mode=design&t=z6upk37KIBaksBDz-0"
       >Figma</a
     >
   </li>
