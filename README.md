@@ -51,10 +51,28 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 
 <h2>Links Importantes</h2>
 <ul>
-    <li><a href="https://drive.google.com/file/d/1-B5eo4Kn4ohz8Wy2rx8n7Ok2avWnGRr8/view?usp=sharing">ScreenCast Protótipo Lo-Fi</a></li>
   <li>
     <a
-      href="https://brlla.atlassian.net/jira/software/projects/NAT/boards/2"
+      href="https://drive.google.com/file/d/1-B5eo4Kn4ohz8Wy2rx8n7Ok2avWnGRr8/view?usp=sharing"
+      >ScreenCast Protótipo Lo-Fi</a
+    >
+  </li>
+  <ol>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/1fKBDubrYRM0OfsfiGrPuFtaMAWoiZ5tC/view?usp=sharing"
+        >Print Jira</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/1Cjy2dJmmQqB71rZnHO9TrNrHbcQeCRaQ/view?usp=sharing"
+        >Print Jira</a
+      >
+    </li>
+  </ol>
+  <li>
+    <a href="https://brlla.atlassian.net/jira/software/projects/NAT/boards/2"
       >Jira Software</a
     >
   </li>
