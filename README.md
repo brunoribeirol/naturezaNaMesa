@@ -116,13 +116,4 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
     <a href="https://github.com/vinipetribu">Vinícius Petribu</a> -
     vclp@cesar.school 📩
   </li>
-  <li>
-    <a href="https://github.com/VIESAFE">Vinícius Ferraz</a> - vesf@cesar.school
-    📩
-  </li>
 </ul>
-
-<h2>Contribuíntes</h2>
-<a href="https://github.com/brunoribeirol/fds/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=brunoribeirol/naturezaNaMesa" />
-</a>
