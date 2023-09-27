@@ -89,6 +89,12 @@ de alimentos e implementar práticas agrícolas resilientes.-->
       >Figma</a
     >
   </li>
+    <li>
+    <a
+      href="https://lucid.app/lucidchart/f2cbdb19-8906-4e3b-8f33-011892292cdb/edit?invitationId=inv_c43e7d84-0bd0-493f-87c9-0bd5afac2160"
+      >Diagrama de Atividades</a
+    >
+  </li>
 </ul>
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
