@@ -69,8 +69,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'naturezaNaMesa.wsgi.application'
 
-bruno
-
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
