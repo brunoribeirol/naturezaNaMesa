@@ -103,16 +103,48 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   </li>
 </ul>
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<!--
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
+
+<h2>Desenvolvimento</h2>
+<p>Clone o repositório, instale as dependências e inicie a aplicação</p>
+
+<pre><code>git clone git@github.com:claudioavgo/triphelper.git
+</code></pre>
+
+<p>Dica: Use o parâmetro <code>depth</code> para reduzir o tamanho do clone.</p>
+
+<pre><code>git clone --depth=1 https://github.com/claudioavgo/triphelper.git
+</code></pre>
+
+<p>Instale as extenções:</p>
+
+<ul>
+  <li>ms-python.vscode-pylance</li>
+  <li>ms-python.python</li>
+  <li>batisteo.vscode-django</li>
+</ul>
+
+<p>Criação do ambiente virtual, ativação e dependências</p>
+
+<pre><code>Crie usando: "python -m venv venv"
+
+Ative o ambiente virtual usando: "venv\Scripts\activate"
+
+Instale as dependências usando "pip install -r ./requirements.txt"
+</code></pre>
+
 
 <h1>Equipe</h1>
 <ul>
