@@ -14,7 +14,7 @@ def checkout(request):
     context = {}
     return render(request, 'naturezaApp/checkout.html', context)
 
-def index(request):
+def main(request):
     context = {}
-    return render(request, 'naturezaApp/index.html', context)
+    return render(request, 'naturezaApp/main.html', context)
 

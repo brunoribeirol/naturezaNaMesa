@@ -5,5 +5,5 @@ urlpatterns = [
     path('', views.naturezaApp, name='naturezaApp'),
     path('cart/', views.cart, name='cart'),
     path('checkout/', views.checkout, name='checkout'),
-    path('index/', views.index, name='index'),
+    path('main/', views.main, name='main'),
 ]
