@@ -123,3 +123,8 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
     vclp@cesar.school 📩
   </li>
 </ul>
+
+<h2>Contribuidores 👨‍👩‍👧‍👦</h2>
+<a href="https://github.com/brunoribeirol/naturezaNaMesa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brunoribeirol/naturezaNaMesa" />
+</a>
