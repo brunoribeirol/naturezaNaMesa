@@ -116,34 +116,48 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
 <h2>Desenvolvimento</h2>
-<p>Clone o repositório, instale as dependências e inicie a aplicação</p>
+<ol>
+    <li>Instale o Python no seu computador.</li>
+    <li>Abra o seu terminal.</li>
+    <li>Cheque se você instalou o Python em sua máquina com o comando:</li>
+        <pre><code>python --version</code></pre>
+    <li>Feito isso, clone este repositório utilizando o comando:</li>
+        <pre><code>git clone https://github.com/brunoribeirol/naturezaNaMesa.git</code></pre>
+    <li>Crie um ambiente virtual, utilizando os comandos:</li>
+        <pre><code>python -m venv venv</code></pre>
+    <li>Para a ativação do ambiente virtual que você criou, utilize o comando:</li>
+    <ul>
+        <li>Para MacOS ou Linux:</li>
+            <pre><code>source venv/bin/activate</code></pre>
+        <li>Windows:</li>
+            <pre><code>venv\Scripts\activate.bat</code></pre>
+    </ul>
+    <li>Instale as dependências utilizando o comando:</li>
+        <pre><code>pip install -r ./requirements.txt</code></pre>
+    <li>Entre no diretório onde você clonou o repositório, utilizando os comandos:</li>
+    <ul>
+        <li>Para listar:
+            <ul>
+                <li>MacOs e Linux:
+                    <pre><code>ls</code></pre>
+                <li>Windows:</li>
+                    <pre><code>dir</code></pre>
+            </ul>
+        </li>
+        <li>Para acessar:</li>
+            <pre><code>cd</code></pre>
+    </ul>
+    <li>Acesse a pasta naturezaNaMesa</li>
+    <ul>
+        <li>Para MacOS e Linux, dê o comando</li>
+            <pre><code>python3 manage.py runserver</code></pre>
+        <li>Windows:</li>
+            <pre>pyhton manage.py runserver</pre>
+    </ul>
+    <li>Feito todos esse passos, clique no link: http://127.0.0.1:8000/ e aproveite nossa aplicação! </li>
+</ol>
 
-<pre><code>git clone git@github.com:claudioavgo/triphelper.git
-</code></pre>
-
-<p>Dica: Use o parâmetro <code>depth</code> para reduzir o tamanho do clone.</p>
-
-<pre><code>git clone --depth=1 https://github.com/claudioavgo/triphelper.git
-</code></pre>
-
-<p>Instale as extenções:</p>
-
-<ul>
-  <li>ms-python.vscode-pylance</li>
-  <li>ms-python.python</li>
-  <li>batisteo.vscode-django</li>
-</ul>
-
-<p>Criação do ambiente virtual, ativação e dependências</p>
-
-<pre><code>Crie usando: "python -m venv venv"
-
-Ative o ambiente virtual usando: "venv\Scripts\activate"
-
-Instale as dependências usando "pip install -r ./requirements.txt"
-</code></pre>
 
 
 <h1>Equipe</h1>
