@@ -7,6 +7,30 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/github/repo-size/brunoribeirol/naturezaNaMesa?style=flat"
+    alt="Repository Size"
+  />
+  <img
+    src="https://img.shields.io/github/languages/count/brunoribeirol/naturezaNaMesa?style=flat&logo=python"
+    alt="Language Count"
+  />
+  <img
+    src="https://img.shields.io/bitbucket/issues/brunoribeirol/naturezaNaMesa?style=flat&logo=github"
+    alt="Open Issues"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/t/brunoribeirol/naturezaNaMesa?style=flat&logo=github"
+    alt="Commit Activity"
+  />
+  <a href="LICENSE.md"
+    ><img
+      src="https://img.shields.io/github/license/brunoribeirol/naturezaNaMesa"
+      alt="License"
+  /></a>
+</p>
+
 <p>
   Nosso projeto busca aproximar os pequenos agricultores familiares com os
   consumidores urbanos que buscam um estilo de vida saudável e consciente. No
@@ -89,7 +113,7 @@ de alimentos e implementar práticas agrícolas resilientes.-->
       >Figma</a
     >
   </li>
-    <li>
+  <li>
     <a
       href="https://lucid.app/lucidchart/f2cbdb19-8906-4e3b-8f33-011892292cdb/edit?invitationId=inv_c43e7d84-0bd0-493f-87c9-0bd5afac2160"
       >Diagrama de Atividades</a
@@ -97,16 +121,100 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   </li>
 </ul>
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <img
+    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    alt="Visual Studio Code"
+  />
+  <img
+    src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+    alt="Azure"
+  />
+  <img
+    src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+    alt="Jira"
+  />
+  <img
+    src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+    alt="Figma"
+  />
+  <img
+    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+</p>
 
-<!--
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
+<h2>Desenvolvimento</h2>
+<ol>
+  <li>Instale o Python no seu computador.</li>
+  <li>Abra o seu terminal.</li>
+  <li>Cheque se você instalou o Python em sua máquina com o comando:</li>
+  <pre><code>python --version</code></pre>
+  <li>Feito isso, clone este repositório utilizando o comando:</li>
+  <pre><code>git clone https://github.com/brunoribeirol/naturezaNaMesa.git</code></pre>
+  <li>Crie um ambiente virtual, utilizando os comandos:</li>
+  <pre><code>python -m venv venv</code></pre>
+  <li>
+    Para a ativação do ambiente virtual que você criou, utilize o comando:
+  </li>
+  <ul>
+    <li>Para MacOS ou Linux:</li>
+    <pre><code>source venv/bin/activate</code></pre>
+    <li>Windows:</li>
+    <pre><code>venv\Scripts\activate.bat</code></pre>
+  </ul>
+  <li>Instale as dependências utilizando o comando:</li>
+  <pre><code>pip install -r ./requirements.txt</code></pre>
+  <li>
+    Entre no diretório onde você clonou o repositório, utilizando os comandos:
+  </li>
+  <ul>
+    <li>
+      Para listar:
+      <ul>
+        <li>
+          MacOs e Linux:
+          <pre><code>ls</code></pre>
+        </li>
+        <li>Windows:</li>
+        <pre><code>dir</code></pre>
+      </ul>
+    </li>
+    <li>Para acessar:</li>
+    <pre><code>cd</code></pre>
+  </ul>
+  <li>Acesse a pasta naturezaNaMesa</li>
+  <ul>
+    <li>Para MacOS e Linux, dê o comando</li>
+    <pre><code>python3 manage.py runserver</code></pre>
+    <li>Windows:</li>
+    <pre>pyhton manage.py runserver</pre>
+  </ul>
+  <li>
+    Feito todos esse passos, clique no link: http://127.0.0.1:8000/ e aproveite
+    nossa aplicação!
+  </li>
+</ol>
 
 <h1>Equipe</h1>
 <ul>
@@ -124,7 +232,7 @@ Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-t
   </li>
 </ul>
 
-<h2>Contribuidores 👨‍👩‍👧‍👦</h2>
+<h2>Contribuíntes 👨‍👩‍👧‍👦</h2>
 <a href="https://github.com/brunoribeirol/naturezaNaMesa/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=brunoribeirol/naturezaNaMesa" />
 </a>
