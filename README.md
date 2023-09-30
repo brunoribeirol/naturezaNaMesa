@@ -1,11 +1,17 @@
 <h1 align="center">Natureza na Mesa</h1>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Status-Em%20desenvolvimento-green?style=flat-square"
-    alt="Status"
-  />
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-green?style=flat-square" alt="Status" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/brunoribeirol/naturezaNaMesa?style=flat" alt="Repository Size" />
+  <img src="https://img.shields.io/github/languages/count/brunoribeirol/naturezaNaMesa?style=flat&logo=python" alt="Language Count" />
+  <img src="https://img.shields.io/bitbucket/issues/brunoribeirol/naturezaNaMesa?style=flat&logo=github" alt="Open Issues" />
+  <img src="https://img.shields.io/github/commit-activity/t/brunoribeirol/naturezaNaMesa?style=flat&logo=github" alt="Commit Activity" />
+  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/brunoribeirol/naturezaNaMesa" alt="License" /></a>
+</p>
+
 
 <p>
   Nosso projeto busca aproximar os pequenos agricultores familiares com os
