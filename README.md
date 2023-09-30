@@ -196,7 +196,6 @@ de alimentos e implementar práticas agrícolas resilientes.-->
           MacOs e Linux:
           <pre><code>ls</code></pre>
         </li>
-
         <li>Windows:</li>
         <pre><code>dir</code></pre>
       </ul>
