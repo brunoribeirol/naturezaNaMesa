@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - naturezaNaMesa
+name: Build and deploy Python app to Azure Web App - naturezanamesa
 
 on:
   push:
@@ -28,16 +28,22 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r  naturezaNaMesa/requirements.txt
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
+      - name: Cleaning testing files
+        run: |
+          cd naturezaNaMesa/
+          rm db.sqlite3
+          rm .env
+          cd ..
       
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v2
         with:
           name: python-app
           path: |
-            . 
+            naturezaNaMesa 
             !venv/
 
   deploy:
@@ -58,6 +64,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'naturezaNaMesa'
+          app-name: 'naturezanamesa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E3E37D5669542A0B5A36BBAC228BB78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E9A172A88274725ABAEB155921EE537 }}
