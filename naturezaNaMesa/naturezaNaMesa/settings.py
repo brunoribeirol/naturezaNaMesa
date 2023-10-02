@@ -73,11 +73,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    'naturezaApp.apps.NaturezaappConfig'
-
     #Adicionar whitenoise na lista de aplicativos instalados
     "whitenoise.runserver_nostatic",
+    'naturezaApp.apps.NaturezaappConfig'
+    
 ]
 
 MIDDLEWARE = [
