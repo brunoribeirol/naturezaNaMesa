@@ -94,6 +94,18 @@ de alimentos e implementar práticas agrícolas resilientes.-->
         >Print2 Jira - Entrega 1</a
       >
     </li>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/17jHyjrm2gDOQ4XFq4kL5dzjI2y86PiEY/view?usp=sharing"
+        >Print1 Jira - Entrega 2</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/1cKbs4_WzfA0tGWKwn3KQ8BRfJyKIUx7Q/view?usp=sharing"
+        >Print2 Jira - Entrega 2</a
+      >
+    </li>
   </ol>
   <li>
     <a href="https://brlla.atlassian.net/jira/software/projects/NAT/boards/2"
