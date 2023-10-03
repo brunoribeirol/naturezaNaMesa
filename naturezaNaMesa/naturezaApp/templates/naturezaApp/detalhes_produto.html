@@ -1,0 +1,25 @@
+{% extends 'naturezaApp/main.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+    <h1 class="mt-4">Detalhes do Produto</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <h2>{{ produto.name }}</h2>
+            <p>Preço: R$ {{ produto.price }}</p>
+            {% if produto.digital %}
+            <p>Categoria: Verdura</p>
+            {% else %}
+            <p>Categoria: Fruta</p>
+            {% endif %}
+        </div>
+        <div class="col-md-6">
+            {% if produto.image %}
+            <img src="{{ produto.image.url }}" alt="{{ produto.name }}" class="img-fluid">
+            {% endif %}
+        </div>
+    </div>
+    <!-- Outros detalhes do produto aqui -->
+    <a href="{% url 'naturezaApp' %}" class="btn btn-primary mt-3">Voltar para a lista de produtos</a>
+</div>
+{% endblock content %}
