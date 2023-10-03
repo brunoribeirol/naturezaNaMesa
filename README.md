@@ -190,9 +190,13 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 </p>
 
 <h2>Issue/Bug tracker</h2>
-<a
+<li>
+    <a
       href="https://drive.google.com/file/d/1Ikkf-q6QegXYjZp4uE6Rccad02iIwCey/view?usp=sharing"
       >Print Issue/Bug tracker</a
+    >
+  </li>
+
 
 <h2>Desenvolvimento</h2>
 <ol>
