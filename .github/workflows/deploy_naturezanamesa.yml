@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - naturezaNaMesa
+name: Build and deploy Python app to Azure Web App - naturezanamesa
 
 on:
   push:
@@ -20,37 +20,31 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v1
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Create and start virtual environment
         run: |
           python -m venv venv
           source venv/bin/activate
-
+      
       - name: Install dependencies
-        run: pip install -r naturezaNaMesa/requirements.txt
-
+        run: pip install -r requirements.txt
+        
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
-      - name: Cleaning testing files
-        run: |
-          cd naturezaNaMesa/
-          rm db.sqlite3
-          rm .env
-          cd ..
-
+      
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v2
         with:
           name: python-app
           path: |
-            naturezaNaMesa 
+            . 
             !venv/
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
     environment:
-      name: "Production"
+      name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
@@ -59,11 +53,11 @@ jobs:
         with:
           name: python-app
           path: .
-
-      - name: "Deploy to Azure Web App"
+          
+      - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: "naturezaNaMesa"
-          slot-name: "Production"
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E9A172A88274725ABAEB155921EE537 }}
+          app-name: 'naturezanamesa'
+          slot-name: 'Production'
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDACEFC65560438CAF80062447C2700B }}
