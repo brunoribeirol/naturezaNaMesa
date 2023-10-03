@@ -33,7 +33,7 @@ jobs:
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       - name: Cleaning testing files
         run: |
-          cd naturezanamesa/
+          cd naturezaNaMesa/
           rm db.sqlite3
           rm .env
           cd ..
@@ -43,7 +43,7 @@ jobs:
         with:
           name: python-app
           path: |
-            naturezanamesa 
+            naturezaNaMesa 
             !venv/
 
   deploy:
