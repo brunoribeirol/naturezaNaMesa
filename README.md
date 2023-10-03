@@ -189,6 +189,11 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   Ao longo da sessão, o feedback construtivo e a troca de conhecimentos ajudaram bastante para a definição e o alcance dos objetivos. A colaboração e a comunicação entre os membros aumentou significativamente a produtividade dos integrantes, principalmente nos momentos de bloqueio criativo, visto que a resolução desses problemas são obtidas mais rápidas quando se programa em pares.
 </p>
 
+<h2>Issue/Bug tracker</h2>
+<a
+      href="https://drive.google.com/file/d/1Ikkf-q6QegXYjZp4uE6Rccad02iIwCey/view?usp=sharing"
+      >Print Issue/Bug tracker</a
+
 <h2>Desenvolvimento</h2>
 <ol>
   <li>Instale o Python no seu computador.</li>
