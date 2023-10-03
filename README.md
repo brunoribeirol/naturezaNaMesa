@@ -170,7 +170,10 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 </p>
 <p>
   Nomes dos Participantes: Bruno Ribeiro (driver) e Vinícius Petribu (observer)
+</p>
+<p>
   Objetivo: criar as views e urls principais, e os models.
+</p>
   Ao longo da sessão, o feedback construtivo e a troca de conhecimentos ajudaram bastante para a definição e o alcance dos objetivos. A colaboração e a comunicação entre os membros aumentou significativamente a produtividade dos integrantes, principalmente nos momentos de bloqueio criativo, visto que a resolução desses problemas são obtidas mais rápidas quando se programa em pares.
 </p>
 
