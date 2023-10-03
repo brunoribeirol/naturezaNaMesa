@@ -11,7 +11,7 @@ from .models import *
 
 # Create your views here.
 
-@login_required(login_url='login/')   
+#@login_required(login_url='login/')   
 def naturezaApp(request):
 
     if request.user.is_authenticated:
