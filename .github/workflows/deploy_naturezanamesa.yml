@@ -28,12 +28,12 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r naturezaNaMesa/requirements.txt
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       - name: Cleaning testing files
         run: |
-          cd naturezaNaMesa/
+          cd naturezanamesa/
           rm db.sqlite3
           rm .env
           cd ..
@@ -43,7 +43,7 @@ jobs:
         with:
           name: python-app
           path: |
-            naturezaNaMesa 
+            naturezanamesa 
             !venv/
 
   deploy:
@@ -64,6 +64,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'naturezaNaMesa'
+          app-name: 'naturezanamesa'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E9A172A88274725ABAEB155921EE537 }}
