@@ -167,6 +167,8 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 <h2>Programação em Par</h2>
 <p>
   Durante o desenvolvimento da aplicação, o Pair Programming foi utilizado da seguinte forma: com ajuda do Discord, o driver espelhava a tela para que o observer pudesse revisar e fornecer feedback do código em tempo real. 
+</p>
+<p>
   Nomes dos Participantes: Bruno Ribeiro (driver) e Vinícius Petribu (observer)
   Objetivo: criar as views e urls principais, e os models.
   Ao longo da sessão, o feedback construtivo e a troca de conhecimentos ajudaram bastante para a definição e o alcance dos objetivos. A colaboração e a comunicação entre os membros aumentou significativamente a produtividade dos integrantes, principalmente nos momentos de bloqueio criativo, visto que a resolução desses problemas são obtidas mais rápidas quando se programa em pares.
