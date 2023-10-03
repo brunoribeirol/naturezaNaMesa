@@ -123,7 +123,7 @@ de alimentos e implementar práticas agrícolas resilientes.-->
 
   <li>
     <a
-      href="https://portal.azure.com/?Microsoft_Azure_Education_correlationId=1c9f81fb-8425-4b8d-b397-29069dc60844#home"
+      href="naturezanamesa.azurewebsites.net"
       >Microsoft Azure</a
     >
   </li>
