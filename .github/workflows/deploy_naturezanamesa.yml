@@ -28,8 +28,8 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip install -r naturezaNaMesa/requirements.txt
-
+        run: pip install -r requirements.txt
+        
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
       - name: Upload artifact for deployment jobs
@@ -37,7 +37,7 @@ jobs:
         with:
           name: python-app
           path: |
-            naturezaNaMesa
+            . 
             !venv/
 
   deploy:
@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'naturezanamesa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDACEFC65560438CAF80062447C2700B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B30F9CE4C4F4D98B4B3CC7A3DAFCEB0 }}
