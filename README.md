@@ -78,7 +78,7 @@ de alimentos e implementar práticas agrícolas resilientes.-->
   <li>
     <a
       href="https://drive.google.com/file/d/1-B5eo4Kn4ohz8Wy2rx8n7Ok2avWnGRr8/view?usp=sharing"
-      >ScreenCast Protótipo Lo-Fi</a
+      >ScreenCast Protótip Lo-Fi</a
     >
   </li>
   <ol>
