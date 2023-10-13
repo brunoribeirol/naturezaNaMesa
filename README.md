@@ -94,6 +94,18 @@ de alimentos e implementar práticas agrícolas resilientes.-->
         >Print2 Jira - Entrega 1</a
       >
     </li>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/1caUi_h8CXkzHW5682P4U91dvJpXjsezf/view?usp=sharing"
+        >Print quadro Jira - Entrega 2</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://drive.google.com/file/d/1QHnJ6OglDnQQq3IUJHuMlNQ9K2q6CCcL/view?usp=sharing"
+        >Print backlog Jira - Entrega 2</a
+      >
+    </li>
   </ol>
   <li>
     <a
